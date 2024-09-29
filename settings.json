@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 3,
+    "code-runner.runInTerminal": true,
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "git.enableSmartCommit": true
+}
